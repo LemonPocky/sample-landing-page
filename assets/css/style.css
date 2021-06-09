@@ -20,3 +20,8 @@ body {
 	color: white;
 	text-decoration: none;
 }
+
+#title {
+	font-size: 60px;
+	color: lightseagreen;
+}
