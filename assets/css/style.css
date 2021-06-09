@@ -1,0 +1,22 @@
+* {
+	font-family:  Arial, sans-serif;
+}
+
+header {
+	background-color: green;
+	text-align: right;
+	border: double;
+	border-color: pink;
+}
+
+body {
+	background-color: lightblue;
+}
+
+.head-link {	
+	font-size: x-large;
+	position: relative;
+	margin-right: 0px;
+	color: white;
+	text-decoration: none;
+}
